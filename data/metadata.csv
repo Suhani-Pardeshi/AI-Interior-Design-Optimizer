@@ -1,0 +1,106 @@
+room_type,category,image_path,style_option
+Bathroom,Bathtub,furniture_dataset/Bathroom/Bathtub/bathtub_04.png,04
+Bathroom,Bathtub,furniture_dataset/Bathroom/Bathtub/bathtub_02.png,02
+Bathroom,Bathtub,furniture_dataset/Bathroom/Bathtub/bathtub_05.png,05
+Bathroom,Bathtub,furniture_dataset/Bathroom/Bathtub/bathtub_03.png,03
+Bathroom,Bathtub,furniture_dataset/Bathroom/Bathtub/bathtub_01.png,01
+Bathroom,Shower,furniture_dataset/Bathroom/Shower/shower_01.png,01
+Bathroom,Shower,furniture_dataset/Bathroom/Shower/shower_03.png,03
+Bathroom,Shower,furniture_dataset/Bathroom/Shower/shower_02.png,02
+Bathroom,Shower,furniture_dataset/Bathroom/Shower/shower_04.png,04
+Bathroom,Shower,furniture_dataset/Bathroom/Shower/shower_05.png,05
+Bathroom,Storage,furniture_dataset/Bathroom/Storage/storage_04.png,04
+Bathroom,Storage,furniture_dataset/Bathroom/Storage/storage_03.png,03
+Bathroom,Storage,furniture_dataset/Bathroom/Storage/storage_02.png,02
+Bathroom,Storage,furniture_dataset/Bathroom/Storage/storage_05.png,05
+Bathroom,Storage,furniture_dataset/Bathroom/Storage/storage_01.png,01
+Bathroom,Mirror,furniture_dataset/Bathroom/Mirror/mirror_02.png,02
+Bathroom,Mirror,furniture_dataset/Bathroom/Mirror/mirror_03.png,03
+Bathroom,Mirror,furniture_dataset/Bathroom/Mirror/mirror_05.png,05
+Bathroom,Mirror,furniture_dataset/Bathroom/Mirror/mirror_04.png,04
+Bathroom,Mirror,furniture_dataset/Bathroom/Mirror/mirror_01.png,01
+Bathroom,Vanity,furniture_dataset/Bathroom/Vanity/vanity_01.png,01
+Bathroom,Vanity,furniture_dataset/Bathroom/Vanity/vanity_02.png,02
+Bathroom,Vanity,furniture_dataset/Bathroom/Vanity/vanity_03.png,03
+Bathroom,Vanity,furniture_dataset/Bathroom/Vanity/vanity_04.png,04
+Bathroom,Vanity,furniture_dataset/Bathroom/Vanity/vanity_05.png,05
+Bedroom,Study_Table,furniture_dataset/Bedroom/Study_Table/study_table_04.png,04
+Bedroom,Study_Table,furniture_dataset/Bedroom/Study_Table/study_table_01.png,01
+Bedroom,Study_Table,furniture_dataset/Bedroom/Study_Table/study_table_03.png,03
+Bedroom,Study_Table,furniture_dataset/Bedroom/Study_Table/study_table_05.png,05
+Bedroom,Study_Table,furniture_dataset/Bedroom/Study_Table/study_table_02.png,02
+Bedroom,Bed,furniture_dataset/Bedroom/Bed/bed_05.png,05
+Bedroom,Bed,furniture_dataset/Bedroom/Bed/bed_02.png,02
+Bedroom,Bed,furniture_dataset/Bedroom/Bed/bed_04.png,04
+Bedroom,Bed,furniture_dataset/Bedroom/Bed/bed_01.png,01
+Bedroom,Bed,furniture_dataset/Bedroom/Bed/bed_03.png,03
+Bedroom,Bedside_Table,furniture_dataset/Bedroom/Bedside_Table/bedside_table_04.png,04
+Bedroom,Bedside_Table,furniture_dataset/Bedroom/Bedside_Table/bedside_table_05.png,05
+Bedroom,Bedside_Table,furniture_dataset/Bedroom/Bedside_Table/bedside_table_02.png,02
+Bedroom,Bedside_Table,furniture_dataset/Bedroom/Bedside_Table/bedside_table_03.png,03
+Bedroom,Bedside_Table,furniture_dataset/Bedroom/Bedside_Table/bedside_table_01.png,01
+Bedroom,Dressing_Table,furniture_dataset/Bedroom/Dressing_Table/dressing_table_05.png,05
+Bedroom,Dressing_Table,furniture_dataset/Bedroom/Dressing_Table/dressing_table_03.png,03
+Bedroom,Dressing_Table,furniture_dataset/Bedroom/Dressing_Table/dressing_table_02.png,02
+Bedroom,Dressing_Table,furniture_dataset/Bedroom/Dressing_Table/dressing_table_01.png,01
+Bedroom,Dressing_Table,furniture_dataset/Bedroom/Dressing_Table/dressing_table_04.png,04
+Bedroom,Wardrobe,furniture_dataset/Bedroom/Wardrobe/wardrobe_02.png,02
+Bedroom,Wardrobe,furniture_dataset/Bedroom/Wardrobe/wardrobe_03.png,03
+Bedroom,Wardrobe,furniture_dataset/Bedroom/Wardrobe/wardrobe_04.png,04
+Bedroom,Wardrobe,furniture_dataset/Bedroom/Wardrobe/wardrobe_01.png,01
+Bedroom,Wardrobe,furniture_dataset/Bedroom/Wardrobe/wardrobe_05.png,05
+Living Room,TV_Unit,furniture_dataset/Living Room/TV_Unit/tv_unit_02.png,02
+Living Room,TV_Unit,furniture_dataset/Living Room/TV_Unit/tv_unit_03.png,03
+Living Room,TV_Unit,furniture_dataset/Living Room/TV_Unit/tv_unit_04.png,04
+Living Room,TV_Unit,furniture_dataset/Living Room/TV_Unit/tv_unit_05.png,05
+Living Room,TV_Unit,furniture_dataset/Living Room/TV_Unit/tv_unit_01.png,01
+Living Room,L_Shape_Sofa,furniture_dataset/Living Room/L_Shape_Sofa/l_shape_sofa_05.png,05
+Living Room,L_Shape_Sofa,furniture_dataset/Living Room/L_Shape_Sofa/l_shape_sofa_02.png,02
+Living Room,L_Shape_Sofa,furniture_dataset/Living Room/L_Shape_Sofa/l_shape_sofa_04.png,04
+Living Room,L_Shape_Sofa,furniture_dataset/Living Room/L_Shape_Sofa/l_shape_sofa_03.png,03
+Living Room,L_Shape_Sofa,furniture_dataset/Living Room/L_Shape_Sofa/l_shape_sofa_01.png,01
+Living Room,Accent_Chair,furniture_dataset/Living Room/Accent_Chair/accent_chair_01.png,01
+Living Room,Accent_Chair,furniture_dataset/Living Room/Accent_Chair/accent_chair_05.png,05
+Living Room,Accent_Chair,furniture_dataset/Living Room/Accent_Chair/accent_chair_02.png,02
+Living Room,Accent_Chair,furniture_dataset/Living Room/Accent_Chair/accent_chair_03.png,03
+Living Room,Accent_Chair,furniture_dataset/Living Room/Accent_Chair/accent_chair_04.png,04
+Living Room,Console,furniture_dataset/Living Room/Console/console_05.png,05
+Living Room,Console,furniture_dataset/Living Room/Console/console_01.png,01
+Living Room,Console,furniture_dataset/Living Room/Console/console_02.png,02
+Living Room,Console,furniture_dataset/Living Room/Console/console_03.png,03
+Living Room,Console,furniture_dataset/Living Room/Console/console_04.png,04
+Living Room,Coffee_Table,furniture_dataset/Living Room/Coffee_Table/coffee_table_04.png,04
+Living Room,Coffee_Table,furniture_dataset/Living Room/Coffee_Table/coffee_table_02.png,02
+Living Room,Coffee_Table,furniture_dataset/Living Room/Coffee_Table/coffee_table_03.png,03
+Living Room,Coffee_Table,furniture_dataset/Living Room/Coffee_Table/coffee_table_01.png,01
+Living Room,Coffee_Table,furniture_dataset/Living Room/Coffee_Table/coffee_table_05.png,05
+Living Room,Sofa,furniture_dataset/Living Room/Sofa/sofa_03.png,03
+Living Room,Sofa,furniture_dataset/Living Room/Sofa/sofa_05.png,05
+Living Room,Sofa,furniture_dataset/Living Room/Sofa/sofa_01.png,01
+Living Room,Sofa,furniture_dataset/Living Room/Sofa/sofa_04.png,04
+Living Room,Sofa,furniture_dataset/Living Room/Sofa/sofa_02.png,02
+Kitchen,Tall_Unit,furniture_dataset/Kitchen/Tall_Unit/tall_unit_04.png,04
+Kitchen,Tall_Unit,furniture_dataset/Kitchen/Tall_Unit/tall_unit_02.png,02
+Kitchen,Tall_Unit,furniture_dataset/Kitchen/Tall_Unit/tall_unit_03.png,03
+Kitchen,Tall_Unit,furniture_dataset/Kitchen/Tall_Unit/tall_unit_05.png,05
+Kitchen,Tall_Unit,furniture_dataset/Kitchen/Tall_Unit/tall_unit_01.png,01
+Kitchen,Kitchen_Island,furniture_dataset/Kitchen/Kitchen_Island/kitchen_island_01.png,01
+Kitchen,Kitchen_Island,furniture_dataset/Kitchen/Kitchen_Island/kitchen_island_03.png,03
+Kitchen,Kitchen_Island,furniture_dataset/Kitchen/Kitchen_Island/kitchen_island_05.png,05
+Kitchen,Kitchen_Island,furniture_dataset/Kitchen/Kitchen_Island/kitchen_island_02.png,02
+Kitchen,Kitchen_Island,furniture_dataset/Kitchen/Kitchen_Island/kitchen_island_04.png,04
+Kitchen,Dining_Table,furniture_dataset/Kitchen/Dining_Table/dining_table_05.png,05
+Kitchen,Dining_Table,furniture_dataset/Kitchen/Dining_Table/dining_table_02.png,02
+Kitchen,Dining_Table,furniture_dataset/Kitchen/Dining_Table/dining_table_03.png,03
+Kitchen,Dining_Table,furniture_dataset/Kitchen/Dining_Table/dining_table_04.png,04
+Kitchen,Dining_Table,furniture_dataset/Kitchen/Dining_Table/dining_table_01.png,01
+Kitchen,Chair,furniture_dataset/Kitchen/Chair/chair_02.png,02
+Kitchen,Chair,furniture_dataset/Kitchen/Chair/chair_01.png,01
+Kitchen,Chair,furniture_dataset/Kitchen/Chair/chair_03.png,03
+Kitchen,Chair,furniture_dataset/Kitchen/Chair/chair_04.png,04
+Kitchen,Chair,furniture_dataset/Kitchen/Chair/chair_05.png,05
+Kitchen,Cabinet,furniture_dataset/Kitchen/Cabinet/cabinet_01.png,01
+Kitchen,Cabinet,furniture_dataset/Kitchen/Cabinet/cabinet_02.png,02
+Kitchen,Cabinet,furniture_dataset/Kitchen/Cabinet/cabinet_05.png,05
+Kitchen,Cabinet,furniture_dataset/Kitchen/Cabinet/cabinet_04.png,04
+Kitchen,Cabinet,furniture_dataset/Kitchen/Cabinet/cabinet_03.png,03

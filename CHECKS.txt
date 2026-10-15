@@ -1,0 +1,2 @@
+Python compile errors: []
+Recommender smoke test: Design records=12; image records=18605; room metadata=0

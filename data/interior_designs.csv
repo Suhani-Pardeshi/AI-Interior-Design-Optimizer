@@ -1,0 +1,13 @@
+id,room_type,style,budget_lakh,area_sqft,color,materials,lighting,furniture,features
+1,Bedroom,Modern Minimalist,3.5,180,Beige Ivory,Wood Laminate Fabric,Warm Cove LED,Platform Bed Wardrobe Side Tables,Soft Curves Hidden Storage
+2,Bedroom,Luxury Modern,7,250,Taupe Gold,Wood Marble Fluted Panel,Layered Warm Lighting,Upholstered Bed Wardrobe,Dressing Wall Premium Headboard
+3,Bedroom,Japanese Japandi,4.5,220,Sand Olive,Oak Wood Fabric,Soft Warm Lighting,Low Bed Wooden Side Tables,Slatted Wall Indoor Plants
+4,Living Room,Modern Minimalist,5,300,Beige Cream,Wood Marble,Warm Cove LED,L Shape Sofa TV Unit Coffee Table,Fluted Wall Hidden Storage
+5,Living Room,Luxury Modern,10,500,Cream Gold,Marble Veneer Brass,Chandelier Cove Lighting,Designer Sofa TV Console,Feature Wall Bar Console
+6,Living Room,Contemporary,6,400,Grey Walnut,Walnut Laminate Marble,Linear LED,Sectional Sofa TV Unit,Open Shelves Accent Wall
+7,Kitchen,Modern Minimalist,4,120,White Beige,Acrylic Quartz,Under Cabinet LED,Modular Cabinets Tall Unit,Tandem Drawers Pantry
+8,Kitchen,Luxury Modern,7,180,Champagne Ivory,PU Marble Brass,Profile LED Pendant,Island Tall Units,Premium Hardware Breakfast Counter
+9,Kitchen,Contemporary,5.5,150,Grey White,Matte Laminate Quartz,Task Lighting,Parallel Cabinets Pantry,Rolling Shutter Appliance Garage
+10,Bathroom,Modern Minimalist,2.8,70,White Beige,Porcelain Quartz Glass,Recessed LED,Vanity Mirror Shower,Wall Niches Floating Vanity
+11,Bathroom,Luxury Modern,5,100,Travertine Gold,Stone Brass Glass,Ambient Lighting,Double Vanity Rain Shower,Backlit Mirror Feature Wall
+12,Bathroom,Contemporary,3.5,85,Grey White,Marble Matte Tiles,Linear LED,Wall Hung WC Vanity Shower,Recessed Niches Glass Partition
